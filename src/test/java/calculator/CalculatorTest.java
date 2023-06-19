@@ -17,7 +17,6 @@ class CalculatorTest {
         calculator = new Calculator();
     }
 
-
     @Test
     @DisplayName("NegativeNumbers")
     void add() {
